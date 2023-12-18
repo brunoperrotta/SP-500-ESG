@@ -1,4 +1,4 @@
-![Imagem de Fundo](foto-capa-esg.png)
+![Imagem de Fundo](pictures/cover-photo-esg.png)
 
 # [S&P 500: ESG and Financial Analysis](https://lookerstudio.google.com/reporting/140477a4-3273-4e43-bd81-9bde03abfdc5)
 
