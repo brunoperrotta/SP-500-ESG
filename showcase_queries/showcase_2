@@ -1,0 +1,15 @@
+SELECT 
+    main_table.*
+  , roa_roe.Debt_to_Equity_2022
+  , roa_roe.Debt_to_Equity_2021
+  , roa_roe.Debt_to_Equity_2020
+  , roa_roe.ROE_2022
+  , roa_roe.ROE_2021
+  , roa_roe.ROE_2020
+  , roa_roe.ROA_2022
+  , roa_roe.ROA_2021
+  , roa_roe.ROA_2020
+
+FROM `single-scholar-401513.final_project.main_table` AS main_table 
+LEFT JOIN `single-scholar-401513.final_project.roa_roe` AS roa_roe  
+  ON main_table.Symbol = roa_roe.ticker;
