@@ -1,7 +1,7 @@
 SELECT 
     *
 , Case
-  WHEN ESG_Risk_Level = 'Negligible' AND Controversy_Level IN ('Low') THEN 'Ethical' --- tirei o NEW que vinha antes do esg
+  WHEN ESG_Risk_Level = 'Negligible' AND Controversy_Level IN ('Low') THEN 'Ethical' 
   WHEN ESG_Risk_Level = 'Low' AND Controversy_Level IN ('Low') THEN 'Ethical'
   WHEN ESG_Risk_Level = 'Negligible' AND Controversy_Level IN ('Significant', 'High', 'Severe') THEN 'Opportunist'
   WHEN ESG_Risk_Level = 'Low' AND Controversy_Level IN ('High', 'Severe') THEN 'Opportunist'
