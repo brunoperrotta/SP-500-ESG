@@ -1,4 +1,15 @@
-Tables:
+# S&P500: ESG
+
+
+# **Dictionary**
+
+The project **[S&P 500: ESG and Financial Analysis](https://lookerstudio.google.com/reporting/140477a4-3273-4e43-bd81-9bde03abfdc5)** contains two main tables with distinct levels of granularity. 
+
+The table 1 presents information on sector, industry and ESG related-data in January 2023, and financial statistics compiled by enterprise listed in the S&P500 (ROA and ROE 2020, 2021, 2022).  
+
+The table 2 refers to the above mentioned information, disclosing the financial performance of each listed enterprise per day in the years 2020, 2021, 2022. 
+
+From both tables, the following explanations are worth mentioning: 
 
 1. ESG Risk (Sustainalytics)
     1. To impose a risk an issue must have a potentially substantial impact on the economic value of a company (financial risk and return profile). The underlying premise is that the world is transitioning to a more sustainable economy and effective management of ESG risks should be associated with superior long-term enterprise value. Some issues are considered material (likely to influence the decisions made by a reasonable investor) from an ESG perspective even if the financial consequences are not fully measurable today.
@@ -40,7 +51,7 @@ Tables:
     6. **Adj Close:** The adjusted closing price takes into account any corporate actions, such as stock splits or dividends, that occurred after the market closed on a given day. It provides a more accurate reflection of the stock's value over time.
     7. **Volume:** The total number of shares traded on the given date. It represents the activity and liquidity in the stock for that particular day.
     8. **Ticker Symbol:** The stock's unique symbol or abbreviation used to identify it on the stock exchange.
-    9. **Debt to Equity Ratio(2022)** : The debt-to-equity ratio (D/E ratio) shows how much debt a company has compared to its assets. It is found by dividing a company's total debt by total shareholder equity. A higher D/E ratio means the company may have a harder time covering its liabilities. Can be negative if the company has negative stockholders equity. This scenario happens when a company owes more money to investors than its assets can cover.  
+    9. **Debt to Equity Ratio (2022)** : The debt-to-equity ratio (D/E ratio) shows how much debt a company has compared to its assets. It is found by dividing a company's total debt by total shareholder equity. A higher D/E ratio means the company may have a harder time covering its liabilities. Can be negative if the company has negative stockholders equity. This scenario happens when a company owes more money to investors than its assets can cover.  
     10. **Return on Equity (2022):** ROE measures the profitability of a company in relation to its equity. In other words, it is the return of the money invested by the stockholders. 
     11. **Return of Assets** **(2022) :** ROA is a ratio that measures how efficiently a company uses its assets to generate profit.
 
@@ -57,11 +68,6 @@ Surely this project entailed different layers of data cleaning and transformatio
 - Included financial information:
     - transactioned capital (jan2023)
     - ROE, ROA and Debt_to_equity (2020-2022)
-- Added a company size column per number of full time employees:
-    - Less than 1.000 as “1”
-    - 1.000-9.999 as “2”
-    - 10.000-99.999 as “3”
-    - More than 100.000 as “4”
 - Erased Ticker ABC due to lack on information on transactioned capital
 - Defined companies in categories: Ethical, Opportunist, Concerning
     - Ethical: ESG Risk “Negligible” or “Low” AND Controversy Level “Low” =  63 companies
@@ -76,6 +82,7 @@ Surely this project entailed different layers of data cleaning and transformatio
 - Created a new column “Confidence Level” rating companies as Ethical, Opportunists, Concerning and Neutral
 - Deleted Company “MCK” (McKesson Corp) from the analysis due to financial contradiction on debt to equity, ROA and ROE. It was categorized as “neutral” as per confidence level
 - The analysis remained with 401 companies
+
 <br>
 [final table1](https://docs.google.com/spreadsheets/d/1IFvjXz7YbVWwW-AnZU2ayRnXfZCE2KQRG_2jlSiekkE/edit?usp=sharing)
 <br>
