@@ -6,8 +6,10 @@
 The project **[S&P 500: ESG and Financial Analysis](https://lookerstudio.google.com/reporting/140477a4-3273-4e43-bd81-9bde03abfdc5)** contains two main tables with distinct levels of granularity. 
 
 The table 1 presents information on sector, industry and ESG related-data in January 2023, and financial statistics compiled by enterprise listed in the S&P500 (ROA and ROE 2020, 2021, 2022).  
+[table 1](https://docs.google.com/spreadsheets/d/1IFvjXz7YbVWwW-AnZU2ayRnXfZCE2KQRG_2jlSiekkE/edit?usp=sharing)
 
 The table 2 refers to the above mentioned information, disclosing the financial performance of each listed enterprise per day in the years 2020, 2021, 2022. 
+[table 2](https://docs.google.com/spreadsheets/d/1PXxFgvsZf7Yyq8otCNFohVWGg0dAlMIXMlVaWlTIwh8/edit?usp=sharing)
 
 From both tables, the following explanations are worth mentioning: 
 
@@ -20,9 +22,14 @@ From both tables, the following explanations are worth mentioning:
         - Social Risk Score: A score assessing the company's societal and employee-related practices.
         - Governance Risk Score: A score reflecting the quality of the company's governance structure.
         - ESG Risk Percentile: The company's rank in terms of ESG risk compared to others.
-        - ESG Risk Level: Based on their quantitative scores (see #1), companies are grouped into one of five risk categories
+        - ESG Risk Level: Based on their quantitative scores, companies are grouped into one of five risk categories
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c6d7b278-db74-4023-848e-2e9b3eec86ae/c1f170c8-1f5b-4576-a4c9-a522793e08a7/Untitled.png)
+          - Negligible: 0-10
+          - Low: 10-20
+          - Medium: 20-30
+          - High: 30-40
+          - Severe: 40+
+
 
 1. Level of Controversy (Sustainalytics)
     1. We define a controversy as an event or aggregation of events relating to an ESG topic.
@@ -86,6 +93,6 @@ Surely this project entailed different layers of data cleaning and transformatio
 <br>
 [final table1](https://docs.google.com/spreadsheets/d/1IFvjXz7YbVWwW-AnZU2ayRnXfZCE2KQRG_2jlSiekkE/edit?usp=sharing)
 <br>
-[final table2](https://docs.google.com/spreadsheets/d/1PXxFgvsZf7Yyq8otCNFohVWGg0dAlMIXMlVaWlTIwh8/edit?usp=sharing)
+[final table1](https://docs.google.com/spreadsheets/d/1IFvjXz7YbVWwW-AnZU2ayRnXfZCE2KQRG_2jlSiekkE/edit?usp=sharing)
 
 
