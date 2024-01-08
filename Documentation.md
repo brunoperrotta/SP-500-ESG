@@ -5,8 +5,8 @@
 
 The project **[S&P 500: ESG and Financial Analysis](https://lookerstudio.google.com/reporting/140477a4-3273-4e43-bd81-9bde03abfdc5)** contains two main tables with distinct levels of granularity. 
 
-The table 1 presents information on sector, industry and ESG related-data in January 2023, and financial statistics compiled by enterprise listed in the S&P500 (ROA and ROE 2020, 2021, 2022).  
-[table 1](https://docs.google.com/spreadsheets/d/1IFvjXz7YbVWwW-AnZU2ayRnXfZCE2KQRG_2jlSiekkE/edit?usp=sharing)
+The table 1 presents information on sector, industry and ESG related-data in January 2023, and financial statistics compiled by enterprise listed in the S&P500 (ROA and ROE 2020, 2021, 2022). [table 1](https://docs.google.com/spreadsheets/d/1IFvjXz7YbVWwW-AnZU2ayRnXfZCE2KQRG_2jlSiekkE/edit?usp=sharing)
+
 
 The table 2 refers to the above mentioned information, disclosing the financial performance of each listed enterprise per day in the years 2020, 2021, 2022. 
 [table 2](https://docs.google.com/spreadsheets/d/1PXxFgvsZf7Yyq8otCNFohVWGg0dAlMIXMlVaWlTIwh8/edit?usp=sharing)
