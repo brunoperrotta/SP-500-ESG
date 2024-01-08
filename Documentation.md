@@ -42,7 +42,8 @@ From both tables, the following explanations are worth mentioning:
     6. Events are series of isolated or related incidents that pertain to the same ESG issues.
     7. An event is assessed on a scale of 5 levels:
         
-        **Category 5 – Severe** The Event has a severe impact on the environment and society, posing serious business risks to the company. This category represents exceptionally egregious corporate behavior, high frequency of recurrence, very poor management of ESG risks, and a demonstrated lack of willingness by the company to address relevant risks.
+        **Category 5 – Severe** The Event has a severe impact on the environment and society, posing serious business risks to the company. This category represents exceptionally egregious corporate behavior, high frequency of recurrence, very poor management of ESG risks, and a demonstrated lack of willingness by the company to address relevant risks. <br>
+
         **Category 4 – High** The Event has a high impact on the environment and society, posing high business risks to the company. This rating level represents systemic and/or structural problems within the company, weak management systems and company response, and a recurrence of incidents.
         **Category 3 – Significant** The Event has a significant impact on the environment and society, posing significant business risks to the company. This rating level represents evidence of structural problems in the company due to recurrence of incidents and inadequate implementation of management systems or the lack thereof.
         **Category 2 – Moderate** The Event has a moderate impact on the environment and society, posing moderate business risks to the company. This rating level represents low frequency of recurrence of incidents and adequate or strong management systems and/or company response that mitigate further risks.
@@ -90,9 +91,6 @@ Surely this project entailed different layers of data cleaning and transformatio
 - Deleted Company “MCK” (McKesson Corp) from the analysis due to financial contradiction on debt to equity, ROA and ROE. It was categorized as “neutral” as per confidence level
 - The analysis remained with 401 companies
 
-<br>
-[final table1](https://docs.google.com/spreadsheets/d/1IFvjXz7YbVWwW-AnZU2ayRnXfZCE2KQRG_2jlSiekkE/edit?usp=sharing)
-<br>
-[final table1](https://docs.google.com/spreadsheets/d/1IFvjXz7YbVWwW-AnZU2ayRnXfZCE2KQRG_2jlSiekkE/edit?usp=sharing)
+
 
 
