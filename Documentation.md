@@ -42,15 +42,15 @@ From both tables, the following explanations are worth mentioning:
     6. Events are series of isolated or related incidents that pertain to the same ESG issues.
     7. An event is assessed on a scale of 5 levels:
         
-        **Category 5 – Severe** The Event has a severe impact on the environment and society, posing serious business risks to the company. This category represents exceptionally egregious corporate behavior, high frequency of recurrence, very poor management of ESG risks, and a demonstrated lack of willingness by the company to address relevant risks. <br>
+        **Category 5 – Severe**: The Event has a severe impact on the environment and society, posing serious business risks to the company. This category represents exceptionally egregious corporate behavior, high frequency of recurrence, very poor management of ESG risks, and a demonstrated lack of willingness by the company to address relevant risks. <br>
 
-        **Category 4 – High** The Event has a high impact on the environment and society, posing high business risks to the company. This rating level represents systemic and/or structural problems within the company, weak management systems and company response, and a recurrence of incidents. <br>
+        **Category 4 – High**: The Event has a high impact on the environment and society, posing high business risks to the company. This rating level represents systemic and/or structural problems within the company, weak management systems and company response, and a recurrence of incidents. <br>
 
-        **Category 3 – Significant** The Event has a significant impact on the environment and society, posing significant business risks to the company. This rating level represents evidence of structural problems in the company due to recurrence of incidents and inadequate implementation of management systems or the lack thereof. <br>
+        **Category 3 – Significant**: The Event has a significant impact on the environment and society, posing significant business risks to the company. This rating level represents evidence of structural problems in the company due to recurrence of incidents and inadequate implementation of management systems or the lack thereof. <br>
 
-        **Category 2 – Moderate** The Event has a moderate impact on the environment and society, posing moderate business risks to the company. This rating level represents low frequency of recurrence of incidents and adequate or strong management systems and/or company response that mitigate further risks. <br>
+        **Category 2 – Moderate**: The Event has a moderate impact on the environment and society, posing moderate business risks to the company. This rating level represents low frequency of recurrence of incidents and adequate or strong management systems and/or company response that mitigate further risks. <br>
 
-        **Category 1 – Low** The Event has a low impact on the environment and society, and risks to the company are minimal or negligible.
+        **Category 1 – Low**: The Event has a low impact on the environment and society, and risks to the company are minimal or negligible.
         
     
 2. Financial Data (Yahoo Finance)
