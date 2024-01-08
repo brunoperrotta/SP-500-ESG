@@ -14,3 +14,5 @@ The main project deliverables are:
 
 The primary data sources for the project are Kaggle, Sustanalytics, and Yahoo Finance.
 The ELT pipeline was managed with Google Sheets, SQL, and Python.
+
+[Watch Video Presentation](https://www.youtube.com/watch?v=N2UTOdQ0uNY&t=273s)
